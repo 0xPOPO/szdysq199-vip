@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.szdysq199.vip/sitemap.xml
